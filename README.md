@@ -106,7 +106,7 @@ I enjoy learning new technologies, building projects and improving my programmin
 ---
 
 ## 💻 Top Languages
-![Top Languages](./top-languages.png)
+![Top Languages](./top-languages.webp)
 ---
 
 ## 🏆 GitHub Trophies
